@@ -1,2 +1,2 @@
-# my_pie_configs
-saving custom configs and other stuff for my pie board
+# my_pi_configs
+saving custom configs and other stuff for my pi board
